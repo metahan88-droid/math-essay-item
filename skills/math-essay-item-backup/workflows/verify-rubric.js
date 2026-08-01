@@ -9,7 +9,9 @@ export const meta = {
   ],
 }
 
-const K = '/Volumes/ssdmacmini 1/han ex/.claude/skills/math-essay-item'
+// 이 스킬이 설치된 절대경로. 에이전트가 python3·Read로 직접 여는 경로라 ~ 는 쓰지 않는다.
+// 보통 <홈>/.claude/skills/math-essay-item 이고, 셸에서 `echo "$HOME/.claude/skills/math-essay-item"`으로 확인한다.
+const K = '@@스킬 루트 절대경로@@'
 const TARGET = '@@검토 대상 슬롯 JSON 경로@@'   // rubric_rows·발문·조건·답안·유의점·성취수준이 든 파일
 const FACTS = `@@평가 유형 프로파일(수행평가|지필평가)과 확정 수치 목록·배점 체계(예: 수행평가 — 문항별 4/4/7/5, 총 20점, 0점 급간 없음 / 지필평가 — 요소마다 0점 급간, 총 20점). 학교 학업성적관리규정 오버라이드가 있으면 그 확정값(최저 급간·0점 문구·요소 최소 배점)을 함께 적고 검사 기준으로 삼는다@@`
 

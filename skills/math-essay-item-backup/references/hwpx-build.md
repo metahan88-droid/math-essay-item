@@ -2,7 +2,7 @@
 
 ## 도구 배치
 
-`/Volumes/ssdmacmini 1/han ex/.claude/skills/math-essay-item/tools/` 아래에 있다.
+`<스킬 루트>/tools/` 아래에 있다. `<스킬 루트>`는 이 스킬이 설치된 폴더이고, 보통 `$HOME/.claude/skills/math-essay-item`이다.
 
 | 파일 | 하는 일 |
 |---|---|
@@ -32,7 +32,7 @@
 
 ```bash
 WORK=/private/tmp/hwpx-build            # 아무 빈 디렉터리
-SKILL="/Volumes/ssdmacmini 1/han ex/.claude/skills/math-essay-item"
+SKILL="$HOME/.claude/skills/math-essay-item"   # 설치 위치가 다르면 여기만 바꾼다
 rm -rf "$WORK" && mkdir -p "$WORK"
 cp -R "$SKILL/tools/." "$WORK/"
 cp -R /경로/figs "$WORK/figs"           # 그림을 쓸 때만

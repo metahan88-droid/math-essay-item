@@ -9,7 +9,9 @@ export const meta = {
   ],
 }
 
-const K = '/Volumes/ssdmacmini 1/han ex/.claude/skills/math-essay-item'
+// 이 스킬이 설치된 절대경로. 에이전트가 python3·Read로 직접 여는 경로라 ~ 는 쓰지 않는다.
+// 보통 <홈>/.claude/skills/math-essay-item 이고, 셸에서 `echo "$HOME/.claude/skills/math-essay-item"`으로 확인한다.
+const K = '@@스킬 루트 절대경로@@'
 
 // ── 응답 런타임 검증 ───────────────────────────────────────────────
 // fail-closed: 스키마 required가 강제되지 않아도 truthy 불완전 객체({}·필드 누락·빈 문자열)를

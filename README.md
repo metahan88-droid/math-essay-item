@@ -55,11 +55,21 @@
 
 ```bash
 cp -R skills/math-essay-item-backup ~/.claude/skills/math-essay-item
+cp -R tools/tpl2 ~/.claude/skills/math-essay-item/tools/     # 한글 서식 원본
 ```
 
 Claude Code에서 "서논술형 문항 만들어줘" 같은 말로 부르면 됩니다. 스킬이 성취기준·평가 요소·평가 유형을 물어봅니다.
 
-HWPX 조판은 한글 서식 파일(`tools/tpl2/`)에 의존합니다. 그림을 PNG로 만들려면 `rsvg-convert`(`brew install librsvg`)가 필요합니다.
+**어디에 설치해도 됩니다.** 도구는 자기 파일 위치를 기준으로 서식을 찾고 산출물은 작업 폴더에 만들므로, 스킬 폴더가 오염되지 않습니다. 절대경로가 필요한 곳은 워크플로 스크립트의 `K` 하나뿐이고 실행 전에 채웁니다.
+
+**환경**
+
+| | 쓰임 | 없으면 |
+|---|---|---|
+| `python3` (표준 라이브러리만) | 검산·조판·검증 | 필수 |
+| `rsvg-convert` | SVG → PNG | 도해가 HWPX에 안 들어감. `brew install librsvg` |
+| `codex` CLI | 적대적 검증 | 검증이 두 겹으로 줄고, 스킬이 그 사실을 알립니다 |
+| `gpt-image-2` 스킬 | 분위기 삽화 | 삽화 없이 진행. 자료 도해는 그대로 만들어집니다 |
 
 ## 덜어낸 것
 
