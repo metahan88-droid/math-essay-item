@@ -55,8 +55,9 @@
 
 ```bash
 cp -R skills/math-essay-item-backup ~/.claude/skills/math-essay-item
-cp -R tools/tpl2 ~/.claude/skills/math-essay-item/tools/     # 한글 서식 원본
 ```
+
+한글 서식 원본(`tools/tpl2/`)이 스킬에 함께 들어 있어 이 한 줄이면 끝납니다.
 
 Claude Code에서 "서논술형 문항 만들어줘" 같은 말로 부르면 됩니다. 스킬이 성취기준·평가 요소·평가 유형을 물어봅니다.
 
