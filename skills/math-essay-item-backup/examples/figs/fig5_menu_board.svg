@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="300" viewBox="0 0 740 300">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="14" y="14" width="712" height="272" rx="14" fill="#fffdf5" stroke="#8a5a2b" stroke-width="3"/>
+<rect x="14" y="14" width="712" height="52" rx="14" fill="#8a5a2b"/>
+<rect x="14" y="52" width="712" height="14" fill="#8a5a2b"/>
+<text x="370.0" y="48" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="22" font-weight="bold" fill="#fffdf5" text-anchor="middle">○○피자 가격 안내</text>
+<line x1="44" y1="108" x2="696" y2="108" stroke="#8a5a2b" stroke-width="1.5"/>
+<text x="56" y="100" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="15" font-weight="bold" fill="#8a5a2b" text-anchor="start">크기</text>
+<text x="180" y="100" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="15" font-weight="bold" fill="#8a5a2b" text-anchor="start">지름</text>
+<text x="305" y="100" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="15" font-weight="bold" fill="#8a5a2b" text-anchor="start">두께</text>
+<text x="430" y="100" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="15" font-weight="bold" fill="#8a5a2b" text-anchor="start">한 판 가격</text>
+<text x="555" y="100" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="15" font-weight="bold" fill="#8a5a2b" text-anchor="start">페퍼로니</text>
+<text x="56" y="140" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="bold" fill="#111111" text-anchor="start">미디엄</text>
+<text x="180" y="140" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="normal" fill="#111111" text-anchor="start">24 cm</text>
+<text x="305" y="140" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="normal" fill="#111111" text-anchor="start">2 cm</text>
+<text x="430" y="140" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="normal" fill="#111111" text-anchor="start">16,000원</text>
+<text x="555" y="140" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="normal" fill="#111111" text-anchor="start">16개</text>
+<line x1="44" y1="151" x2="696" y2="151" stroke="#e0d6c2" stroke-width="1"/>
+<text x="56" y="174" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="bold" fill="#111111" text-anchor="start">라지</text>
+<text x="180" y="174" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="normal" fill="#111111" text-anchor="start">30 cm</text>
+<text x="305" y="174" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="normal" fill="#111111" text-anchor="start">2.5 cm</text>
+<text x="430" y="174" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="normal" fill="#111111" text-anchor="start">26,000원</text>
+<text x="555" y="174" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="normal" fill="#8a1c1c" text-anchor="start">?</text>
+<line x1="44" y1="185" x2="696" y2="185" stroke="#e0d6c2" stroke-width="1"/>
+<text x="56" y="208" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="bold" fill="#111111" text-anchor="start">자이언트</text>
+<text x="180" y="208" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="normal" fill="#111111" text-anchor="start">36 cm</text>
+<text x="305" y="208" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="normal" fill="#111111" text-anchor="start">3 cm</text>
+<text x="430" y="208" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="normal" fill="#111111" text-anchor="start">32,000원</text>
+<text x="555" y="208" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="normal" fill="#8a1c1c" text-anchor="start">?</text>
+<line x1="44" y1="219" x2="696" y2="219" stroke="#e0d6c2" stroke-width="1"/>
+<rect x="44" y="248" width="652" height="30" rx="6" fill="#fdf1d6" stroke="#d9b45a"/>
+<text x="370.0" y="268" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="14" font-weight="bold" fill="#8a5a2b" text-anchor="middle">★ 이번 주 행사 : 미디엄 2판 묶음 30,000원 (정가 합계 32,000원)</text>
+</svg>

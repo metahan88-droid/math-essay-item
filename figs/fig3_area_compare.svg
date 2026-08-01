@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 700 300">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6"
+  orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1a3f6f"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="350.0" y="26" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="bold" fill="#111">〔도해·교사용〕 미디엄 2판 vs 자이언트 1판 — 양은 부피로 (완전 닮음: 두께도 4:5:6)</text>
+<circle cx="120.0" cy="150.0" r="43.2" fill="#f2c14e" stroke="#8a5a2b" stroke-width="1.9"/>
+<circle cx="120.0" cy="150.0" r="38.4" fill="#e9564b" stroke="#c8452f" stroke-width="1"/>
+<circle cx="112.4" cy="155.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="113.4" cy="144.7" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="122.8" cy="141.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="128.7" cy="150.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="121.7" cy="158.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="138.4" cy="166.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="126.3" cy="174.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="112.3" cy="174.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="101.0" cy="167.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="94.8" cy="153.4" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="96.7" cy="138.8" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="106.4" cy="128.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="120.7" cy="124.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="134.0" cy="128.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="142.9" cy="139.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="145.7" cy="154.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<text x="120.0" y="232.0" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="bold" fill="#111">미디엄</text>
+<text x="120.0" y="252.0" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="13" fill="#333">부피 904.32 cm³</text>
+<circle cx="285.0" cy="150.0" r="43.2" fill="#f2c14e" stroke="#8a5a2b" stroke-width="1.9"/>
+<circle cx="285.0" cy="150.0" r="38.4" fill="#e9564b" stroke="#c8452f" stroke-width="1"/>
+<circle cx="293.3" cy="155.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="282.3" cy="158.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="276.2" cy="150.9" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="282.1" cy="142.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="292.3" cy="144.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="276.6" cy="174.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="265.3" cy="166.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="260.1" cy="153.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="262.4" cy="138.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="272.1" cy="127.9" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="285.9" cy="124.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="299.6" cy="128.9" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="309.0" cy="140.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="310.1" cy="154.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="303.7" cy="167.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="291.4" cy="175.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<text x="285.0" y="232.0" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="bold" fill="#111">미디엄</text>
+<text x="285.0" y="252.0" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="13" fill="#333">부피 904.32 cm³</text>
+<text x="203" y="283" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="14" font-weight="bold" fill="#111">ⓐ 2판 = 1808.64 cm³ = 8인분 · 30,000원 · 32개</text>
+<text x="425" y="158" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="26" fill="#555">vs</text>
+<circle cx="570.0" cy="150.0" r="64.8" fill="#f2c14e" stroke="#8a5a2b" stroke-width="2.9"/>
+<circle cx="570.0" cy="150.0" r="57.7" fill="#e9564b" stroke="#c8452f" stroke-width="1"/>
+<circle cx="576.0" cy="152.8" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="563.3" cy="146.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="551.4" cy="155.9" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="553.4" cy="142.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="563.7" cy="132.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="578.7" cy="133.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="589.0" cy="144.4" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="587.3" cy="158.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="576.4" cy="168.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="561.0" cy="166.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="575.9" cy="118.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="590.1" cy="125.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="598.6" cy="137.4" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="601.9" cy="153.4" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="596.4" cy="167.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="585.4" cy="177.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="570.9" cy="181.7" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="556.7" cy="179.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="545.4" cy="169.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="538.5" cy="154.4" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="540.9" cy="140.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="548.8" cy="127.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="562.0" cy="119.9" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="613.0" cy="143.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="611.1" cy="164.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="599.9" cy="182.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="581.1" cy="192.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="560.0" cy="192.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="541.0" cy="183.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="530.0" cy="167.4" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="527.1" cy="146.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="534.0" cy="126.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="549.3" cy="112.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="568.8" cy="105.8" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="589.2" cy="110.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="605.5" cy="124.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<text x="570.0" y="232.0" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="bold" fill="#111">자이언트</text>
+<text x="570.0" y="252.0" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="13" fill="#333">부피 3052.08 cm³</text>
+<text x="570" y="283" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="14" font-weight="bold" fill="#0b5c2e">ⓒ 1판 = 3052.08 cm³ = 13.5인분 · 32,000원 · 36개</text>
+</svg>

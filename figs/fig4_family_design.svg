@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="330" viewBox="0 0 700 330">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6"
+  orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1a3f6f"/></marker></defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="350.0" y="26" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="bold" fill="#111">〔도해·교사용〕 패밀리(두께 2 cm 고정): 윗면 넓이 4배 → 지름 2배</text>
+<circle cx="105.0" cy="170.0" r="22.8" fill="#f2c14e" stroke="#8a5a2b" stroke-width="1.6"/>
+<circle cx="105.0" cy="170.0" r="20.3" fill="#e9564b" stroke="#c8452f" stroke-width="1"/>
+<circle cx="106.3" cy="165.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="109.6" cy="169.8" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="106.7" cy="174.8" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="100.9" cy="172.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="101.1" cy="167.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="92.4" cy="165.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="96.7" cy="158.9" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="104.2" cy="156.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="111.6" cy="158.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="117.2" cy="163.8" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="118.2" cy="170.7" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="116.1" cy="178.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="109.4" cy="182.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="102.3" cy="183.4" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="95.4" cy="179.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="92.0" cy="173.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<text x="105.0" y="268.0" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="bold" fill="#111">미디엄 · 지름 24 cm</text>
+<text x="105.0" y="288.0" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="13" fill="#333">윗면 452.16 cm² · 두께 2 cm</text>
+<circle cx="300.0" cy="170.0" r="45.6" fill="#f2c14e" stroke="#8a5a2b" stroke-width="2.1"/>
+<circle cx="300.0" cy="170.0" r="40.6" fill="#e9564b" stroke="#c8452f" stroke-width="1"/>
+<circle cx="297.4" cy="171.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="306.5" cy="165.7" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="304.5" cy="176.4" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="294.0" cy="174.7" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="296.0" cy="164.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="294.5" cy="157.8" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="306.7" cy="159.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="312.0" cy="167.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="309.1" cy="177.9" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="298.9" cy="182.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="289.6" cy="177.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="288.0" cy="166.8" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="310.9" cy="183.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="301.1" cy="187.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="291.1" cy="185.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="282.9" cy="176.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="283.4" cy="166.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="288.3" cy="156.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="299.4" cy="152.9" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="309.0" cy="154.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="317.0" cy="164.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="317.8" cy="175.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="322.6" cy="166.8" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="322.1" cy="178.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="316.0" cy="186.9" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="305.4" cy="191.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="295.2" cy="192.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="285.3" cy="187.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="278.9" cy="178.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="277.4" cy="168.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="280.9" cy="157.7" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="288.7" cy="150.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="298.8" cy="146.8" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="309.8" cy="149.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="318.0" cy="156.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="315.9" cy="147.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="323.3" cy="155.4" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="327.5" cy="166.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="326.2" cy="176.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="321.8" cy="186.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="314.4" cy="194.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="304.6" cy="198.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="292.9" cy="196.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="282.7" cy="191.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="276.1" cy="184.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="272.4" cy="173.7" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="273.0" cy="162.9" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="278.0" cy="153.6" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="285.8" cy="146.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="295.9" cy="142.4" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="307.1" cy="143.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="267.7" cy="166.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="272.9" cy="151.2" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="284.8" cy="141.0" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="300.2" cy="137.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="315.8" cy="141.7" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="327.3" cy="151.9" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="333.0" cy="166.7" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="331.0" cy="182.1" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="321.0" cy="193.8" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="307.5" cy="201.5" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="291.8" cy="201.3" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="278.2" cy="194.4" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<circle cx="269.8" cy="181.9" r="3.7" fill="#9e2b25" stroke="#7c1f1a" stroke-width="0.7"/>
+<text x="300.0" y="268.0" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="16" font-weight="bold" fill="#111">패밀리 · 지름 48 cm  ✔</text>
+<text x="300.0" y="288.0" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="13" fill="#333">윗면 1808.64 cm² (4배) · 두께 2 cm</text>
+<text x="203" y="318" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="13" font-weight="bold" fill="#0b5c2e">두께 고정 → 부피∝윗면 넓이 → k×k=4 → 지름 2배</text>
+<text x="560" y="120" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="14" font-weight="bold" fill="#8a1c1c">완전 닮음으로 16명분을 만들면?</text>
+<text x="560" y="145" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="13" fill="#8a1c1c">k×k×k=4 → k=∛4 (무리수)</text>
+<text x="560" y="168" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="13" fill="#8a1c1c">중2 범위 밖 — 그래서 두께를 고정한다</text>
+<circle cx="560" cy="245" r="56.5" fill="none" stroke="#8a1c1c" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="560" y="250" text-anchor="middle" font-family="Malgun Gothic, AppleGothic, NanumGothic, sans-serif" font-size="12" fill="#8a1c1c">96 cm</text>
+</svg>

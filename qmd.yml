@@ -1,0 +1,4 @@
+collections:
+  중2-유리수-순환소수-서논술형:
+    path: ./wiki
+    pattern: "**/*.md"

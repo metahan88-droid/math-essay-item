@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+out2/
+.*.out2-*/
+figs_demo/
+*.part
